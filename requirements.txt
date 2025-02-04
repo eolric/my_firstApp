@@ -1,0 +1,6 @@
+# global requirements
+fastapi[standard]
+uvicorn
+psycopg2-binary
+SQLAlchemy
+sqlmodel

@@ -1,0 +1,5 @@
+#ignorar las carpetas:
+documentosSAI/
+Lib/
+Include/
+Script/
